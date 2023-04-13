@@ -9,4 +9,4 @@ Just:
 - npm i
 - npm run deploy
 
-And you're hosted on github!
+And your page is live on GitHub pages! Only five steps!
