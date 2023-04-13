@@ -1,7 +1,7 @@
 {
   "name": "portfolio",
   "version": "1.0.0",
-  "description": "Absolutely terrible date ideas ON DEMAND!",
+  "description": "description",
   "main": "index.js",
   "scripts": {
     "start": "webpack-dev-server --open",
@@ -14,13 +14,9 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/reecevela/awful-dates.git"
+    "url": "git+https://github.com/reecevela/[REPO].git"
   },
   "keywords": [
-    "generator",
-    "love",
-    "dating",
-    "ideas",
     "Reece",
     "Vela",
     "development",
@@ -30,9 +26,9 @@
   "author": "Reece Vela",
   "license": "ISC",
   "bugs": {
-    "url": "https://github.com/reecevela/awful-dates/issues"
+    "url": "https://github.com/reecevela/[REPO]/issues"
   },
-  "homepage": "https://reecevela.github.io/awful-dates",
+  "homepage": "https://reecevela.github.io/[REPO]",
   "devDependencies": {
     "@babel/core": "^7.21.3",
     "@babel/preset-env": "^7.20.2",
